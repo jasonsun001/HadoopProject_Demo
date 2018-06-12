@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: hadoop-nfs-2.8.4.jar hadoop-common-2.8.4.jar hadoop-common
+ -2.8.4-tests.jar hadoop-hdfs-2.8.4.jar hadoop-hdfs-nfs-2.8.4.jar hado
+ op-hdfs-2.8.4-tests.jar hadoop-hdfs-client-2.8.4.jar hadoop-hdfs-clie
+ nt-2.8.4-tests.jar hadoop-hdfs-native-client-2.8.4.jar hadoop-hdfs-na
+ tive-client-2.8.4-tests.jar hadoop-mapreduce-examples-2.8.4.jar hadoo
+ p-mapreduce-client-hs-2.8.4.jar hadoop-mapreduce-client-app-2.8.4.jar
+  hadoop-mapreduce-client-core-2.8.4.jar hadoop-mapreduce-client-commo
+ n-2.8.4.jar hadoop-mapreduce-client-shuffle-2.8.4.jar hadoop-mapreduc
+ e-client-jobclient-2.8.4.jar hadoop-mapreduce-client-hs-plugins-2.8.4
+ .jar hadoop-mapreduce-client-jobclient-2.8.4-tests.jar hadoop-yarn-ap
+ i-2.8.4.jar hadoop-yarn-client-2.8.4.jar hadoop-yarn-common-2.8.4.jar
+  hadoop-yarn-registry-2.8.4.jar hadoop-yarn-server-tests-2.8.4.jar ha
+ doop-yarn-server-common-2.8.4.jar hadoop-yarn-server-web-proxy-2.8.4.
+ jar hadoop-yarn-server-nodemanager-2.8.4.jar hadoop-yarn-server-resou
+ rcemanager-2.8.4.jar hadoop-yarn-server-sharedcachemanager-2.8.4.jar 
+ hadoop-yarn-applications-distributedshell-2.8.4.jar hadoop-yarn-serve
+ r-timeline-pluginstorage-2.8.4.jar hadoop-yarn-server-applicationhist
+ oryservice-2.8.4.jar hadoop-yarn-applications-unmanaged-am-launcher-2
+ .8.4.jar
+Main-Class: OldMaxTemperature.OldMaxTemperatureReducer
+
